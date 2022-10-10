@@ -30,4 +30,5 @@ int main() //6. Reverse an array using Pointers.
     {
         printf("%d ", *(ptr + i));
     }
+    print("hi !!!!");
 }
